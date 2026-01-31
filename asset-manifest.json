@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/static/js/main.d9214e4d.js",
-    "static/js/884.1faa4eca.chunk.js": "/static/js/884.1faa4eca.chunk.js",
-    "static/js/978.c0ad2a11.chunk.js": "/static/js/978.c0ad2a11.chunk.js",
-    "static/js/456.b6fc681e.chunk.js": "/static/js/456.b6fc681e.chunk.js",
-    "static/js/680.9441841b.chunk.js": "/static/js/680.9441841b.chunk.js",
-    "static/js/739.982d577b.chunk.js": "/static/js/739.982d577b.chunk.js",
-    "static/js/722.10920a94.chunk.js": "/static/js/722.10920a94.chunk.js",
-    "index.html": "/index.html",
-    "main.d9214e4d.js.map": "/static/js/main.d9214e4d.js.map",
-    "884.1faa4eca.chunk.js.map": "/static/js/884.1faa4eca.chunk.js.map",
-    "978.c0ad2a11.chunk.js.map": "/static/js/978.c0ad2a11.chunk.js.map",
-    "456.b6fc681e.chunk.js.map": "/static/js/456.b6fc681e.chunk.js.map",
-    "680.9441841b.chunk.js.map": "/static/js/680.9441841b.chunk.js.map",
-    "739.982d577b.chunk.js.map": "/static/js/739.982d577b.chunk.js.map",
-    "722.10920a94.chunk.js.map": "/static/js/722.10920a94.chunk.js.map"
+    "main.js": "/movie-search/static/js/main.2bb327f8.js",
+    "static/js/884.1faa4eca.chunk.js": "/movie-search/static/js/884.1faa4eca.chunk.js",
+    "static/js/978.c0ad2a11.chunk.js": "/movie-search/static/js/978.c0ad2a11.chunk.js",
+    "static/js/456.b6fc681e.chunk.js": "/movie-search/static/js/456.b6fc681e.chunk.js",
+    "static/js/680.9441841b.chunk.js": "/movie-search/static/js/680.9441841b.chunk.js",
+    "static/js/739.982d577b.chunk.js": "/movie-search/static/js/739.982d577b.chunk.js",
+    "static/js/722.10920a94.chunk.js": "/movie-search/static/js/722.10920a94.chunk.js",
+    "index.html": "/movie-search/index.html",
+    "main.2bb327f8.js.map": "/movie-search/static/js/main.2bb327f8.js.map",
+    "884.1faa4eca.chunk.js.map": "/movie-search/static/js/884.1faa4eca.chunk.js.map",
+    "978.c0ad2a11.chunk.js.map": "/movie-search/static/js/978.c0ad2a11.chunk.js.map",
+    "456.b6fc681e.chunk.js.map": "/movie-search/static/js/456.b6fc681e.chunk.js.map",
+    "680.9441841b.chunk.js.map": "/movie-search/static/js/680.9441841b.chunk.js.map",
+    "739.982d577b.chunk.js.map": "/movie-search/static/js/739.982d577b.chunk.js.map",
+    "722.10920a94.chunk.js.map": "/movie-search/static/js/722.10920a94.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.d9214e4d.js"
+    "static/js/main.2bb327f8.js"
   ]
 }
